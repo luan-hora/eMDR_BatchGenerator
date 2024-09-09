@@ -1,0 +1,15 @@
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\bin\Debug\net8.0\eMDR_BatchGenerator.Repository.deps.json
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\bin\Debug\net8.0\eMDR_BatchGenerator.Repository.dll
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\bin\Debug\net8.0\eMDR_BatchGenerator.Repository.pdb
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\bin\Debug\net8.0\eMDR_BatchGenerator.Model.dll
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\bin\Debug\net8.0\eMDR_BatchGenerator.Model.pdb
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\eMDR_BatchGenerator.Repository.csproj.AssemblyReference.cache
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\eMDR_BatchGenerator.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\eMDR_BatchGenerator.Repository.AssemblyInfoInputs.cache
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\eMDR_BatchGenerator.Repository.AssemblyInfo.cs
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\eMDR_BatchGenerator.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\eMDR_Bat.FD3F9188.Up2Date
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\eMDR_BatchGenerator.Repository.dll
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\refint\eMDR_BatchGenerator.Repository.dll
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\eMDR_BatchGenerator.Repository.pdb
+C:\Projetos_LFHSystems\eMDR_BatchGenerator\eMDR_BatchGenerator.Repository\obj\Debug\net8.0\ref\eMDR_BatchGenerator.Repository.dll
